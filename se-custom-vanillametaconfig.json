@@ -1,0 +1,8 @@
+[
+    {
+        "ConfigFile": "servers/SpaceEngineers-Dedicated.cfg",
+        "AutoMap": true,
+        "Importable": true,
+        "ConfigType": "xml"
+    }
+]

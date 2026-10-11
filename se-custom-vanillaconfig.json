@@ -1,0 +1,62 @@
+[
+    {
+        "DisplayName": "Binding IP",
+        "Category": "Space Engineers:stadia_controller",
+        "Subcategory": "General:settings:1",
+        "Description": "",
+        "Keywords": "",
+        "FieldName": "$ApplicationIPBinding",
+        "InputType": "text",
+        "IsFlagArgument": false,
+        "ParamFieldName": "/MyConfigDedicated/IP",
+        "ExcludeFromImport": true,
+        "IncludeInCommandLine": false,
+        "EnumValues": {},
+        "Hidden": true
+    },
+    {
+        "DisplayName": "Server Port",
+        "Category": "Space Engineers:stadia_controller",
+        "Subcategory": "General:settings:1",
+        "Description": "",
+        "Keywords": "",
+        "FieldName": "$ApplicationPort1",
+        "InputType": "number",
+        "IsFlagArgument": false,
+        "ParamFieldName": "/MyConfigDedicated/ServerPort",
+        "ExcludeFromImport": true,
+        "IncludeInCommandLine": false,
+        "EnumValues": {},
+        "Hidden": true
+    },
+    {
+        "DisplayName": "Steam Port",
+        "Category": "Space Engineers:stadia_controller",
+        "Subcategory": "General:settings:1",
+        "Description": "",
+        "Keywords": "",
+        "FieldName": "$ApplicationPort2",
+        "InputType": "number",
+        "IsFlagArgument": false,
+        "ParamFieldName": "/MyConfigDedicated/SteamPort",
+        "ExcludeFromImport": true,
+        "IncludeInCommandLine": false,
+        "EnumValues": {},
+        "Hidden": true
+    },
+    {
+        "DisplayName": "Remote API Port",
+        "Category": "Space Engineers:stadia_controller",
+        "Subcategory": "General:settings:1",
+        "Description": "",
+        "Keywords": "",
+        "FieldName": "$RemoteAdminPort",
+        "InputType": "number",
+        "IsFlagArgument": false,
+        "ParamFieldName": "/MyConfigDedicated/RemoteApiPort",
+        "ExcludeFromImport": true,
+        "IncludeInCommandLine": false,
+        "EnumValues": {},
+        "Hidden": true
+    }
+]
